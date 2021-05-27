@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/project1_asper/static/css/main.642a1988.chunk.css",
+    "main.js": "/project1_asper/static/js/main.1e432686.chunk.js",
+    "main.js.map": "/project1_asper/static/js/main.1e432686.chunk.js.map",
+    "runtime-main.js": "/project1_asper/static/js/runtime-main.acff5fa9.js",
+    "runtime-main.js.map": "/project1_asper/static/js/runtime-main.acff5fa9.js.map",
+    "static/js/2.92c1908d.chunk.js": "/project1_asper/static/js/2.92c1908d.chunk.js",
+    "static/js/2.92c1908d.chunk.js.map": "/project1_asper/static/js/2.92c1908d.chunk.js.map",
+    "index.html": "/project1_asper/index.html",
+    "static/css/main.642a1988.chunk.css.map": "/project1_asper/static/css/main.642a1988.chunk.css.map",
+    "static/js/2.92c1908d.chunk.js.LICENSE.txt": "/project1_asper/static/js/2.92c1908d.chunk.js.LICENSE.txt",
+    "static/media/top.css": "/project1_asper/static/media/blackmamba.4bc7d6f3.png",
+    "static/media/main.css": "/project1_asper/static/media/furley_bg.d37cf31d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.acff5fa9.js",
+    "static/js/2.92c1908d.chunk.js",
+    "static/css/main.642a1988.chunk.css",
+    "static/js/main.1e432686.chunk.js"
+  ]
+}
